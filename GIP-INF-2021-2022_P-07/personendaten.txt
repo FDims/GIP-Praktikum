@@ -1,0 +1,16 @@
+Musterfrau, Petra, 1.1.1981
+Mustermann, Peter    , 2.2.1972
+Nachname,     Norbert, 3.3.1963
+Duck,     Donald     , 4.4.1954
+Kong    , King, 9.9.1999
+Supermann   , Jan   , 1.1.1981
+Superfrau   ,    Eva, 1.1.1981
+Rot   ,    Kohl   , 1.1.1981
+   Grün, Kohl, 1.1.1981
+   Supermannn, Jannn   , 1.1.1981
+  Supermannnnn,    Jannn, 1.1.1981
+ Supermannnnnn,    Jannnn    , 1.1.1981
+     Musterfrauuu   , Petraaaaa, 1.1.1981
+     Musterfrauuuuu   , Petraaaaaa     , 1.1.1981
+          Musterfrauuuuuu  Zweitname1   ,     Petraaaaaaa, 1.1.1981
+     Musterfrauuuuuuuu  Zweitname2 ,    Petraaaaaaaa     , 1.1.1981
